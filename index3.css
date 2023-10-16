@@ -1,0 +1,15 @@
+.showPage {
+    background-image: url(barcelona.jpg);
+    background-position: cover;
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    margin-bottom: 10px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+}
+
+    
